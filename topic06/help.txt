@@ -1,1 +1,0 @@
-Chatbot has to be developed with the information in all the applications present in the URL list. 
